@@ -1,7 +1,5 @@
 # Spotify Exploratory Data Analysis
 
-![Spotify](images/spotify-logo.png)
-
 This project performs an exploratory data analysis on Spotify track data to uncover insights.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/username/spotify-eda/tree/master/) 
